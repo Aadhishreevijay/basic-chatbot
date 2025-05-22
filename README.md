@@ -1,4 +1,4 @@
-# Basic Chatbot and External Weather API
+# Chatbot
 
 This project demonstrates a basic chatbot integrated with an external weather API, utilizing the OpenAI API. It provides an example of how to set up a Node.js server to handle interactions with the OpenAI API and retrieve weather information from OpenWeatherMap.
 
